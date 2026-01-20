@@ -100,3 +100,59 @@
 - Improved logical thinking
 - Strong base for upcoming Python and AI topics 🚀
 
+
+# 🐍 Python Loops Wonderland ✨🌸
+# Day 02 – Python Loops 🐍
+
+Welcome to my Python journey! This repository is dedicated to mastering **Loops**—the superpower of automation! 🚀 From printing tables to cracking prime numbers, it's all here! 🌻😊
+
+---
+
+## 📚 What's Inside? 📖
+
+In Python, we have two main ways to repeat tasks:
+1. **The `for` Loop**: Perfect for numbers and sequences! 🔢
+2. **The `while` Loop**: Perfect for conditions! ⚙️
+
+### 🌷 The `range()` Magic
+The `range(start, stop, step)` function is our best friend! 👫
+* 🏁 **Start**: Where we begin (Default: 0)
+* 🛑 **Stop**: Where we end (Exclusive!)
+* 🪜 **Step**: How many steps we jump (Default: 1)
+
+---
+
+## 🛠️ Logic & Exercises Solved 🧠💡
+
+I've practiced various real-world logic problems here:
+
+* **🔢 Number Crunching**: 
+  * Printing natural numbers up to $n$ 📝
+  * Generating mathematical tables (e.g., Table of 5, 7, or $n$) ✖️
+  * Calculating **Factorials** and **Sum of $n$ terms** ➕
+
+* **💎 Special Numbers**:
+  * **Prime Number Check**: Is it divisible only by itself? 🛡️
+  * **Perfect Number Check**: Do its factors add up to the number? 🎯
+  * **Even/Odd Sums**: Separating and summing numbers in a range ⚖️
+
+* **🔤 String Sorcery**:
+  * **Reversing a string**: Turning "Ayushi" into "ihsuyA" 🔄
+  * **Palindrome Check**: Checking if it reads the same backward! ↔️
+  * **Character Analytics**: Counting letters, digits, and symbols using ASCII (`ord()`) 🔍
+
+---
+
+## 🚀 Key Learning Snippets 💻✨
+
+
+
+### 🏃‍♂️ Break vs Continue
+* `break`: Stops the loop completely. 🛑
+* `continue`: Skips the current turn and jumps to the next! ⏭️
+
+### 📝 Sample Code for Table:
+```python
+num = int(input("Enter the number: "))
+for i in range(1, 11):
+    print(f"{num} * {i} = {num * i}") 🌸
