@@ -152,7 +152,7 @@ I've practiced various real-world logic problems here:
 * `continue`: Skips the current turn and jumps to the next! ⏭️
 
 ### 📝 Sample Code for Table:
-```python
+
 num = int(input("Enter the number: "))
 for i in range(1, 11):
     print(f"{num} * {i} = {num * i}") 🌸
