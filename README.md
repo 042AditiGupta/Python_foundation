@@ -156,3 +156,42 @@ I've practiced various real-world logic problems here:
 num = int(input("Enter the number: "))
 for i in range(1, 11):
     print(f"{num} * {i} = {num * i}") 🌸
+
+🐍 PYTHON JOURNEY DAY 3 🚀✨
+🌀 THE WHILE LOOP WONDERLAND 🌀
+Hello! Today was amazing! 🌸🌷🌻 We mastered the art of the while loop and learned how to flip numbers inside out! 🌈💎
+
+🔍 EXPLORING DATA TYPES 😊🌟
+We used these commands to see all the "superpowers" inside Python: 🌻 print(dir(str)) — Everything strings can do! 🧵 🌻 print(dir(int)) — Everything integers can do! 🔢
+
+🔄 WHY THE WHILE LOOP? 🤔💭
+We use the while loop when we don't know the exact number of steps, but we have a goal in mind! 🏃‍♀️🎯 We keep going until the condition is satisfied! 🌊✨
+
+🧩 THE CHALLENGES WE CRUSHED 🏆💖
+1️⃣ Digit Separator 🔪🔢 We broke numbers apart digit by digit! 🧩
+
+Using % 10 to grab the last piece 🍬
+
+Using // 10 to cut the rest away ✂️
+
+2️⃣ Number Reverser 🔄🙃 We took numbers and flipped them backward! 🤸‍♂️✨ Example: 123 ➡️ 321! 🎊
+
+3️⃣ Palindrome Checker 🪞🦢 We checked if a number is a mirror image! 💖
+
+We used two pointers (i and j) to walk through the number from both sides! 👫✨
+
+If they match all the way, it's a Palindrome! 🦢💎
+
+4️⃣ Random Guessing Game 🎲🎮 The most fun part! 🥳
+
+The computer thinks of a number... 🤖💭
+
+We guess until we hit the bullseye! 🎯💥
+
+Too high? 🎈 Too low? 👇 We found it! 🎉🎈🎊
+
+💡 THE MAGIC TOOLS OF THE DAY 🧪🌸
+✨ % (Modulo) — Finds the remainder! 🍭 ✨ // (Floor Division) — Chops the number! 🔪 ✨ random — Adds the element of surprise! 🎁✨
+
+🌈 FEELING LIKE A PRO 😊💻🌷
+Today was full of logic, flowers, and smiles! 🌺🌿 Every line of code is a new petal on my Python flower! 🌸✨ Keep coding and keep shining! ☀️🦋🌟
