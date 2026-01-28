@@ -43,7 +43,7 @@ try:
         raise ValueError("sorry! your age must be between 10 and 18")
     else:
      print("welcome to the club")
-except:
+except Exception as err:
     print(f"an error occurred as {err}")   
 print("the club will start soon")
 
